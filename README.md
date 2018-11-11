@@ -1,2 +1,2 @@
 # Challenges
-Challenges to demonstrate coding
+Challenges to demonstrate miscellaneous program projects
